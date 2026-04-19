@@ -53,3 +53,40 @@ Corta o extrae caracteres por el centro de la cadena de un texto. Segundo argume
 # EJERCICIO #2
 ![alt text](image-9.png)
 
+# 1.3. Funciones de texto: ENCONTRAR, LARGO
+
+## Función ENCONTRAR
+nos dice la posición que ocupa un carácter dentro de un texto. Es una función de búsqueda, ya que nos devuelve la posición de un dato. El resultado será un número entero. 
+
+núm_incial: Es un argumento opcional, en caso de no poner nada, Excel asume que estamos poniendo el número 1.  
+
+Desde dicho argumento, indicamos desde la posición de qué carácter de la celda que contienen el texto a buscar, queremos que nos busque el carácter del texto buscado. No poner nada, o poner el número 1, indica que buscará el texto buscado desde el primer carácter, un 2, buscaría el texto desde el segundo carácter, y así sucesivamente.
+
+![alt text](image-10.png)
+En la columna B queremos encontrar la posición del primer espacio de cada NOMBRE. 
+
+En este caso, el argumento núm_inicial, lo hemos dejado en blanco (o podríamos haber puesto el número 1) porque buscábamos la posición del primer espacio
+
+![alt text](image-11.png)
+Segundo espacio, sin tomar en cuenta la posicion del primero 
+
+## Función LARGO
+Nos dice el número total de caracteres que tiene un texto
+![alt text](image-12.png)
+
+## Extraer nombres y apellidos por posiciones
+![alt text](image-13.png)
+
+# EJERCICIO
+![alt text](image-14.png)
+
+# 1.4. Funciones de texto: VALOR
+
+## Función VALOR
+Con esta función convertimos en numérico un tipo de datos texto. Eso sí, el dato texto ha de ser un número
+
+![alt text](image-15.png)
+
+## Concatenar funciones en una misma celda
+![alt text](image-16.png)
+
