@@ -124,3 +124,6 @@ Lo que hacer es obtener texto de un tipo de dato numérico. Como las fechas son 
 Para convertir un número en texto, en el argumento formato de la función TEXTO, debemos poner entre comillas tantos números 0 como dígitos queremos que muestre el número
 
 ![alt text](image-35.png)
+
+# EJERCICIO
+![alt text](image-36.png)
