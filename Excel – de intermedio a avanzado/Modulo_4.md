@@ -83,3 +83,4 @@ ELEGIRCOLS(matriz;col_num1;[col_num2];…)
 
 ![alt text](image-49.png)
 
+![alt text](image-50.png)
