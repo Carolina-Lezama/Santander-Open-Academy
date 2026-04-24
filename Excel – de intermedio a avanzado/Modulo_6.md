@@ -24,3 +24,7 @@ BUSCARX(valor_buscado;matriz_buscada;matriz_devuelta;[si_no_se_encuentra];[modo_
     -       2: búsqueda binaria ascendente: obliga a que la matriz buscar en esté ordenada en orden ascendente.
     -       -2: búsqueda binaria descendente: requiere que la matriz buscar en, esté ordenada en orden descendente.
 
+# EJERCICIO.
+![alt text](image-56.png)
+
+![alt text](image-57.png)
