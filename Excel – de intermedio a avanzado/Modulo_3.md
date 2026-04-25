@@ -7,18 +7,18 @@ SI.CONJUNTO(Prueba_lógica1;valor_si_verdadero1;[prueba_lógica2;valor_si_verdad
 La función admite 63 pruebas lógicas diferentes, teniendo en cuenta que a cada prueba lógica le corresponde un valor si verdadero, en total la función admite hasta 126 argumentos.
 
 En la prueba lógica podemos usar comparadores(Las pruebas lógicas siempre han de ser comparación de dos valores):
-![alt text](image-37.png)
+![alt text](imagenes/image-37.png)
 
 Los argumentos valor si verdadero, es el resultado que queremos que devuelva la función cuando se cumpla la prueba lógica correspondiente.
 
-![alt text](image-39.png)
+![alt text](imagenes/image-39.png)
 Una condición múltiple con SI.CONJUNTO. Toma el valor de E2 y lo multiplica por un precio/valor dependiendo de lo que diga D2.
 
 Es posible, que para establecer alguno de los valores de la función SI.CONJUNTO, en vez de tener una condición, tengamos que analizar más de una condición. Si se da este caso, habría que analizar las condiciones, bien dentro de una función Y, o bien dentro de la función O
 ### Formula:
 =E2*SI.CONJUNTO(D2="WORD",$B$2,D2="EXCEL",$B$3,D2="ACCESS",$B$4,D2="DISEÑO",$B$5,D2="INTERNET",$B$6)
 
-![alt text](image-38.png)
+![alt text](imagenes/image-38.png)
 
 
 ### Qué significan los $
@@ -58,14 +58,14 @@ Argumentos:
 - [valor_lógico2]: argumento opcional, es la segunda condición.
 - Se pueden llegar a valorar hasta un máximo de 255 condiciones lógicas.
 
-![alt text](image-41.png)
+![alt text](imagenes/image-41.png)
 
 ## Función O
 Es una función lógica. Permite analizar tantas condiciones como tengamos, y devolverá como resultado VERDADERO cuando de todas las pruebas lógicas que se analiza al menos se cumpla una. Devuelve FALSO si no se cumple ninguna de las condiciones analizadas.
 
 Sintaxis: O(valor_lógico1;[valor_lógico2];…).
 
-![alt text](image-40.png)
+![alt text](imagenes/image-40.png)
 
 ## Función VERDADERO
 Utilizamos esta función, que no tiene ningún argumento ni hace falta usar paréntesis, dentro de la función SI.CONJUNTO, en cualquier argumento Prueba lógica, para hacer referencia al resto de casos, si todos tienen un mismo resultado, y así no tener que están analizando cada uno de manera individual.
