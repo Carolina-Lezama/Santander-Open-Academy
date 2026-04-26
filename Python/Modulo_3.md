@@ -1,0 +1,2 @@
+# 3. Estructuras de control
+Las estructuras de control nos permiten controlar el flujo de ejecución de nuestros programas. En Python, las estructuras de control más comunes son las estructuras condicionales y los bucles. 
