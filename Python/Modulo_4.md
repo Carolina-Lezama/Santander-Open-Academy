@@ -68,3 +68,16 @@ persona = {"nombre": "Juan", "edad": 25, "ciudad": "Madrid"}
 print(persona["nombre"])  # Imprime "Juan"
 print(persona["edad"])    # Imprime 25
 print(persona["ciudad"])  # Imprime "Madrid"
+
+![alt text](image-13.png)
+
+# 4.3. Conjuntos (set)
+Un conjunto es una estructura de datos mutable y no ordenada que permite almacenar una colección de elementos únicos. Los conjuntos se encierran entre llaves {} o se crean utilizando la función set().
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+Las estructuras de datos en Python nos brindan una gran flexibilidad y potencia para almacenar y manipular datos en nuestros programas. Las listas son útiles para colecciones ordenadas y mutables, las tuplas para colecciones ordenadas e inmutables, los diccionarios para almacenar pares clave-valor y los conjuntos para colecciones no ordenadas de elementos únicos.
