@@ -9,7 +9,7 @@ Booleanos
 Las variables son contenedores que nos permiten almacenar y manipular datos en nuestros programas. 
 En Python, no es necesario declarar el tipo de datos de una variable de antemano, ya que Python infiere el tipo de datos automáticamente en función del valor asignado.
 
-![alt text](image-2.png)
+![alt text](imagenes/image-2.png)
 
 - Los nombres de las variables solo pueden contener letras (a-z, A-Z), números (0-9) y guiones bajos (_). No pueden comenzar con un número.
 
@@ -29,7 +29,7 @@ Los operadores son símbolos especiales que nos permiten realizar operaciones en
 - Módulo (%)
 - Exponenciación (**)
 
-![alt text](image-3.png)
+![alt text](imagenes/image-3.png)
 
 ## De comparación
 Los operadores de comparación se utilizan para comparar dos valores y devuelven un valor booleano (True o False) según el resultado de la comparación.
@@ -41,7 +41,7 @@ Los operadores de comparación se utilizan para comparar dos valores y devuelven
 - Mayor o igual que (>=)
 - Menor o igual que (<=)
 
-![alt text](image-4.png)
+![alt text](imagenes/image-4.png)
 
 ## Lógicos
 Los operadores lógicos se utilizan para combinar expresiones condicionales y evaluar múltiples condiciones. 
@@ -50,4 +50,4 @@ Los operadores lógicos se utilizan para combinar expresiones condicionales y ev
 - OR (or)
 - NOT (not)
 
-![alt text](image-5.png)
+![alt text](imagenes/image-5.png)

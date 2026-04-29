@@ -6,10 +6,10 @@ En Python, no es necesario declarar explícitamente el tipo de datos de las vari
 
 En Python, la indentación (espacios o tabulaciones al inicio de una línea) se utiliza para delimitar bloques de código. Python utiliza la indentación para determinar el alcance de las declaraciones. 
 
-![alt text](image.png)
+![alt text](imagenes/image.png)
 
 ## Comentarios
-![alt text](image-1.png)
+![alt text](imagenes/image-1.png)
 
 Python distingue entre mayúsculas y minúsculas. Por lo tanto, variable, Variable y VARIABLE se consideran variables diferentes.
 

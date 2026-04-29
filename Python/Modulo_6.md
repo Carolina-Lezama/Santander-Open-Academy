@@ -18,12 +18,12 @@ El manejo de excepciones nos permite capturar y manejar errores de manera contro
 
 - Finally: es opcional y se ejecuta siempre, independientemente de si ocurrió una excepción o no. Se utiliza comúnmente para realizar tareas de limpieza o liberación de recursos.
 
-![alt text](image-24.png)
-![alt text](image-25.png)
-![alt text](image-26.png)
+![alt text](imagenes/image-24.png)
+![alt text](imagenes/image-25.png)
+![alt text](imagenes/image-26.png)
 
 # 6.2. Excepciones personalizadas
 Además de las excepciones incorporadas en Python, también puedes crear tus propias excepciones personalizadas. Esto es útil cuando deseas manejar situaciones específicas de tu programa.
 
-![alt text](image-27.png)
+![alt text](imagenes/image-27.png)
 
