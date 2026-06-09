@@ -19,3 +19,15 @@ Eso no es miedo es emocion, porque los buenos oradores, no buscan eliminar el mi
 # 1.2. Técnicas de respiración
 Cuando el cuerpo se abren, la voz aparece.
 
+# 1.3. Dicción y proyección: técnicas actorales
+No hay nada peor que tener un gran mensaje, y que nadie lo entienda.
+
+Diccion significa dar forma al sonido, hablar bien no es hablar bonito, es que te entiendan.
+
+No necesitas mas volumne, necesitas mas intension
+
+# 1.4. Lo que has aprendido
+La confianza al hablar en público no es un don innato, sino una habilidad que se entrena. 
+
+Ensaya tu comunicación como si fuera una escena importante, con entrega, humor y verdad
+
